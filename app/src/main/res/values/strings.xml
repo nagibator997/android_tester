@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="app_desc">This is cool program</string>
+
+    <!-- Menu strings -->
+    <string name="menu_button_run_test">RUN TEST</string>
+    <string name="menu_button_create_test">CREATE TEST</string>
+    <string name="menu_button_delete_test">DELETE TEST</string>
+    <string name="menu_button_options_test">OPTIONS</string>
+    <string name="menu_button_exit">EXIT</string>
+</resources>
